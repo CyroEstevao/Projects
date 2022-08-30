@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/data/EmptyProject/code/Empty.cpp
+Empty.h
+/home/jovyan/data/EmptyProject/code/Empty.h
+bits/stdc++.h
+-
+string
+-
+iomanip
+-
+string
+-
+iostream
+-
+
+/home/jovyan/data/EmptyProject/code/Empty.h
+string
+-
+iostream
+-
+
