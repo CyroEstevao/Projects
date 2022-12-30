@@ -21,8 +21,7 @@ Auto Complete Tool
   - Algorithm developed for search, delete and print functions
   
 Information Visualization
-  - (Who is The Next World Cup Winner?)
-  - Project using Data and Information Visualization and Storytelling to predict the next World Cup Winner of 2022. 
+  - Project using Data and Information Visualization and Storytelling to predict "Who is the next World Cup Winner of 2022?". 
   - The project story and data confirmed the favorite teams to win the World Cup after the Cup happened (Brazil, Argentina, England).
   - Usage of Data
   - Different Graphs and Charts
