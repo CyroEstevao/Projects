@@ -16,16 +16,14 @@ Image Processing
 
 Auto Complete Tool
   - Data Structured developed for an Auto-Complete Tool
-  - Test structured developed for testing
-  - Trie node that stores and returns list of words
+  - Test Structured developed for testing
+  - Trie Node that stores and returns list of words
   - Algorithm developed for search, delete and print functions
   
 Information Visualization
   Who is The Next World Cup Winner?
-
-  Project using Data and Information Visualization and Storytelling to predict the next World Cup Winner of 2022. 
-  The project story and data confirmed the favorite teams to win the World Cup after the Cup happened (Brazil, Argentina, England).
-
+  - Project using Data and Information Visualization and Storytelling to predict the next World Cup Winner of 2022. 
+  - The project story and data confirmed the favorite teams to win the World Cup after the Cup happened (Brazil, Argentina, England).
   - Usage of Data
   - Different Graphs and Charts
   - Color, Size, Hue
