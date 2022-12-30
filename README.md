@@ -1,5 +1,17 @@
 # Projects
 
+Petwell Website https://www.petwell.care/
+
+- BEM CSS
+- SCSS
+- JavaScript TS
+- Angular
+- UI Design
+- Responsive Design
+- Layout
+- Carousel
+- Forms
+
 Game Project
 
 Space Invader
@@ -26,4 +38,4 @@ Information Visualization
   - Usage of Data
   - Different Graphs and Charts
   - Color, Size, Hue
-  - Video using Storytelling technique
+  - Video using Storytelling technique ( https://www.youtube.com/watch?v=UvhddOXr75Q )
