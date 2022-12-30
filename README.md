@@ -39,3 +39,4 @@ Information Visualization
   - Different Graphs and Charts
   - Color, Size, Hue
   - Video using Storytelling technique ( https://www.youtube.com/watch?v=UvhddOXr75Q )
+  - Tableau
