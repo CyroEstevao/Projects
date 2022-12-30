@@ -25,12 +25,14 @@ Image Processing
   - 10 image filters to use
   - Functional menu on terminal
   - Input/output of images
+  - Python
 
 Auto Complete Tool
   - Data Structured developed for an Auto-Complete Tool
   - Test Structured developed for testing
   - Trie Node that stores and returns list of words
   - Algorithm developed for search, delete and print functions
+  - C++
   
 Information Visualization
   - Project using Data and Information Visualization and Storytelling to predict "Who is the next World Cup Winner of 2022?". 
