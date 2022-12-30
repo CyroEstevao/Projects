@@ -26,4 +26,4 @@ Information Visualization
   - Usage of Data
   - Different Graphs and Charts
   - Color, Size, Hue
-  - Video Storytelling technique
+  - Video using Storytelling technique
