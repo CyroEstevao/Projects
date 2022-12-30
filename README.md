@@ -12,9 +12,7 @@ Petwell Website https://www.petwell.care/
 - Carousel
 - Forms
 
-Game Project
-
-Space Invader
+Game Project/ Space Invader
   - Object Oriented Programming
   - Using classes, attributes and functions to develop a functional game
   - Using build-in functions on python
