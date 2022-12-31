@@ -6,7 +6,7 @@ Petwell Website https://www.petwell.care/
 - SCSS
 - JavaScript TS
 - Angular
-- UI Design
+- UI Design Implementation
 - Responsive Design
 - Layout
 - Carousel
