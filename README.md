@@ -15,7 +15,7 @@ Petwell Website https://www.petwell.care/
 Game Project/ JavaScriptGame
   - CSS/ HTML implementation
   - Object Oriented Programming
-  - Features Implementation (KeyStroke for error, Timer for the challenge)
+  - Features Implementation (KeyStroke color for errors, Challenge Timer, buttons, etc)
   - Code implemented lab_javascript.js
 
 Game Project/ Space Invader
