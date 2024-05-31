@@ -12,6 +12,12 @@ Petwell Website https://www.petwell.care/
 - Carousel
 - Forms
 
+Game Project/ JavaScriptGame
+  - CSS/ HTML implementation
+  - Object Oriented Programming
+  - Features Implementation (KeyStroke for error, Timer for the challenge)
+  - Code implemented lab_javascript.js
+
 Game Project/ Space Invader
   - Object Oriented Programming
   - Using classes, attributes and functions to develop a functional game
